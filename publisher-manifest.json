@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "6e9ee9af277bae38abc74820",
+  "owner": "ureab8q9j",
+  "repo": "page-51869585fd338af2fd1f7152",
+  "title": "MorckVPN",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "51869585fd338af2fd1f7152",
+      "a": "MorckVPN",
+      "b": "2027最新官网",
+      "entity": "MorckVPN",
+      "brand": "MorckVPN",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "2ff59d319c738736959aa2da7c671d34895b89407a894bea0750bb423720041c",
+      "content": {
+        "primary_entity": "MorckVPN",
+        "keyword1": "MorckVPN",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档订阅，月付从 ¥15 起、年付从 ¥150 起，对应 100GB 至 1000GB 流量与 3 至 20 台设备额度。旗舰版覆盖全节点原生流媒体解锁与 IPLC 专线游戏加速，团队版则面向多设备与定制路由需求。客户端按 Windows、macOS、iOS、Android 与路由器分类下载，订阅链接导入后即可切换节点使用。",
+          "AI_HERO_SUBTITLE": "按设备与流量选套餐",
+          "AI_HERO_INTRO": "MorckVPN 是面向跨境访问场景的加速服务，按基础版、旗舰版、团队版划分订阅层级，流量、设备数与节点权限逐级递增。选套餐时先确认常用设备数量与每月流量需求，再比较年付折算价格，让订阅周期与使用节奏匹配。",
+          "AI_VISUAL_TITLE": "MorckVPN 套餐速览",
+          "AI_HIGHLIGHT_1": "基础版 ¥15/月，含 100GB 流量",
+          "AI_HIGHLIGHT_2": "旗舰版 5 台设备，IPLC 游戏加速",
+          "AI_HIGHLIGHT_3": "团队版 20 台设备，1000GB 流量",
+          "AI_FEATURES_TITLE": "订阅选择要点",
+          "AI_FEATURES_INTRO": "先看清流量、设备数和线路层级，再决定月付或年付。",
+          "AI_FEATURE_TITLE_1": "按设备数量选层",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台、旗舰版 5 台、团队版 20 台设备同时在线，按常用手机与电脑总数对应即可。",
+          "AI_FEATURE_TITLE_2": "按流量预估档位",
+          "AI_FEATURE_TEXT_2": "每月 100GB 适合轻度浏览，300GB 覆盖日常视频，1000GB 满足多人共享或高频下载场景。",
+          "AI_FEATURE_TITLE_3": "年付折算更省",
+          "AI_FEATURE_TEXT_3": "基础版年付 ¥150、旗舰版 ¥350、团队版 ¥850，与月付相比按十个月价格使用十二个月。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "按系统选择对应客户端，Windows 与 macOS 使用桌面版，iOS 与 Android 使用移动版，路由器可配置订阅。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "三档套餐在流量、设备数与节点权限上依次提升，可结合月付价格与年付折算判断长期使用成本。",
+          "AI_GUIDE_TITLE": "订阅配置三步",
+          "AI_GUIDE_INTRO": "从选套餐到导入订阅，按设备类型完成配置后即可连接节点。",
+          "AI_STEP_TITLE_1": "选择服务层级",
+          "AI_STEP_TEXT_1": "根据常用设备数量与每月流量，在基础版、旗舰版、团队版之间选定一档，并确认月付或年付周期。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "核对设备系统版本与客户端支持情况，路由器配置需确认固件是否支持订阅导入。",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_STEP_TEXT_3": "依客户端文档粘贴订阅链接或扫描配置信息，完成后选择节点并开启连接。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "按需选档，稳定连接",
+          "AI_CLOSING_TEXT": "对比三档流量与设备额度后，选择匹配日常使用的 MorckVPN 套餐并完成订阅配置。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、3 台设备，适合手机与笔记本轻度使用；旗舰版每月 300GB、5 台设备并含 IPLC 专线；团队版每月 1000GB、20 台设备，适合多人共享或小型团队。",
+          "AI_FAQ_ANSWER_2": "在客户端订阅管理中选择从文件或链接导入，粘贴购买后获得的订阅地址，更新节点列表即可连接。不同客户端菜单名称略有差异，可对照对应文档操作。",
+          "AI_FAQ_ANSWER_3": "基础版支持 3 台，旗舰版支持 5 台，团队版支持 20 台同时在线。若设备较多，选择团队版可避免频繁切换登录。",
+          "AI_FAQ_ANSWER_4": "可以在客户端中切换普通节点、IPLC 专线或 VIP 节点池，根据延迟和用途自行选择。游戏或实时通话优先选择 IPLC 专线节点，普通浏览使用默认线路即可。",
+          "AI_FAQ_ANSWER_5": "月付适合短期试用，灵活按月续费；年付折算后约为十个月价格，长期使用更划算。若不确定用量，可以先选基础版月付，后续再升级。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版和团队版有什么区别？",
+          "AI_FAQ_QUESTION_2": "如何在客户端导入 MorckVPN 订阅？",
+          "AI_FAQ_QUESTION_3": "一个套餐可以同时登录几台设备？",
+          "AI_FAQ_QUESTION_4": "不同线路节点该如何选择？",
+          "AI_FAQ_QUESTION_5": "月付和年付选哪个更合适？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--i8sz42abidt79c.com",
+    "host": "xn--i8sz42abidt79c.com"
+  },
+  "file_hashes": {
+    "index.html": "e5e8256cc328f7e7ebad4fb1ecb2fc9cad5c6727bc9f49f4aa8bc05736625106",
+    "sitemap.xml": "e27e548a0d86dfb540032503e2dfb7daacb66924fedb5157b7eed161365a1f4d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "7185a6b9d5fd82bc27f182c47a02a34ce5940aeec44361a5e0dda4fc33f9b711",
+    "robots.txt": "a6201e7bae87ff49023f00909593ab72ad4b1c5a7becf00a0349299e72ce04e5",
+    "b8469b069d9a8fb20a4571c16f6ae212.txt": "8dab57d37460bfcf29ee04663ab172259f8b4a307ca1ede81c03ac995bf7e98a"
+  },
+  "revision": "d6d9f8eac3547803db37726025e5ce3a2ee3345ed4031336c5b3a52bd8f27ef5"
+}
